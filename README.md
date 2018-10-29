@@ -22,13 +22,13 @@ This demon example demonstrates how to build a simple DApp (Voting) with client-
 This DApp example is based on JavaScript (server-side + client-side)
  - `public` - holds the client-side JS app
  - `src` - holds the server-side Node.js app
- - `contract` - holds the `Voting` solidity contract, published at https://ropsten.etherscan.io/address/0x121241C506ebb1d04A4d8d355D37aC9fd06361de 
+ - `contract` - holds the `Voting` solidity contract, published at https://ropsten.etherscan.io/address/0x8f16113c7cd6fdfd5b14f39697f10dc4f86a410f 
 
 ## Running the Demo
 
 1. Download the demo from GitHub:
 ```
-git clone https://github.com/SoftUniLabs/client-side-ethereum-wallet
+git clone https://github.com/SoftUniLabs/Voting-DApp
 ```
 
 2. Go to the project directory:

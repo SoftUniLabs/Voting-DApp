@@ -2,7 +2,7 @@ $(document).ready(function () {
     const ethereumProvider = ethers.providers.getDefaultProvider('ropsten');
     
     // The data for the contract (Address and ABI)
-    const votingContractAddress = "0x31b5de7684d085c622671c713de352d81ffbd3f1";
+    const votingContractAddress = "0x8f16113c7cd6fdfd5b14f39697f10dc4f86a410f";
     const votingContractABI = [
         {
             "constant": true,
